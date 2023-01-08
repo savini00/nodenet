@@ -1,8 +1,8 @@
 {
-  "name": "n_shell",
+  "name": "node_net",
   "version": "1.0.0",
   "scripts": {
-    "start": "node nshell.js"
+    "start": "node index.js"
   },
   "devDependencies": {
     "@architect/sandbox": "^5.3.4"
